@@ -1,7 +1,7 @@
 ## Proyecto integrador - ISPC 2022
 - Esta es mi resolución de la actividad integradora de Programación inicial.
 
-## Consigna
+#### Consigna
 - Codificar en Python un programa que contenga las siguientes condiciones:
     - El usuario debe ingresar 5 números enteros, los cuales serán almacenados en una lista.
     -  **Función Suma:** recibe como parámetro la lista y devuelve la suma total de todos sus elementos.
